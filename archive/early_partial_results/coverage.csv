@@ -1,0 +1,7 @@
+model,tier,rows_done,rows_expected,complete
+Qwen3-4B,core,3360,3360,True
+Qwen3-4B,adaptive,0,840,False
+Qwen3-4B,sampled,0,720,False
+Phi-4-mini,core,2608,3360,False
+Phi-4-mini,adaptive,0,840,False
+Phi-4-mini,sampled,0,720,False

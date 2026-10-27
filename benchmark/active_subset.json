@@ -1,0 +1,1 @@
+{"active_n_per_family": 120, "decided_at_s": 581.8655743598938, "rule": "largest balanced prefix of the frozen benchmark whose estimated core runtime fits the budget; decided from wall-clock speed only, before any scored output"}
